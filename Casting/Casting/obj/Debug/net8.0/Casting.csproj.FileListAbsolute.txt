@@ -1,0 +1,15 @@
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\bin\Debug\net8.0\Casting.exe
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\bin\Debug\net8.0\Casting.deps.json
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\bin\Debug\net8.0\Casting.runtimeconfig.json
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\bin\Debug\net8.0\Casting.dll
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\bin\Debug\net8.0\Casting.pdb
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\obj\Debug\net8.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\obj\Debug\net8.0\Casting.AssemblyInfoInputs.cache
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\obj\Debug\net8.0\Casting.AssemblyInfo.cs
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\obj\Debug\net8.0\Casting.csproj.CoreCompileInputs.cache
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\obj\Debug\net8.0\Casting.sourcelink.json
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\obj\Debug\net8.0\Casting.dll
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\obj\Debug\net8.0\refint\Casting.dll
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\obj\Debug\net8.0\Casting.pdb
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\obj\Debug\net8.0\Casting.genruntimeconfig.cache
+C:\Users\Sheki-Komp\Desktop\CodeWorld\Casting\Casting\obj\Debug\net8.0\ref\Casting.dll
