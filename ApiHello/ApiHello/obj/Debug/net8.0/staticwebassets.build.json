@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9PNnmqzNxuYC6tCnue9B5RM0+/fB2pUgWpHe9YvOXHY=",
+  "Source": "ApiHello",
+  "BasePath": "_content/ApiHello",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\bin\Debug\net8.0\ApiHelloCore.deps.json
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\bin\Debug\net8.0\ApiHelloCore.dll
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\bin\Debug\net8.0\ApiHelloCore.pdb
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\obj\Debug\net8.0\ApiHelloCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\obj\Debug\net8.0\ApiHelloCore.AssemblyInfoInputs.cache
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\obj\Debug\net8.0\ApiHelloCore.AssemblyInfo.cs
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\obj\Debug\net8.0\ApiHelloCore.csproj.CoreCompileInputs.cache
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\obj\Debug\net8.0\ApiHelloCore.sourcelink.json
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\obj\Debug\net8.0\ApiHelloCore.dll
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\obj\Debug\net8.0\refint\ApiHelloCore.dll
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\obj\Debug\net8.0\ApiHelloCore.pdb
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\obj\Debug\net8.0\ref\ApiHelloCore.dll
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\bin\Debug\net8.0\ApiHelloCore.runtimeconfig.json
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\obj\Debug\net8.0\ApiHelloCore.csproj.AssemblyReference.cache
+C:\Users\Sheki-Komp\Desktop\CodeWorld\ApiHello\ApiHelloCore\obj\Debug\net8.0\ApiHelloCore.genruntimeconfig.cache
