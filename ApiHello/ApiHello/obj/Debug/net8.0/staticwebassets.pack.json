@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHello\\wwwroot\\products\\sl14uehw.wcn.png",
+      "PackagePath": "staticwebassets\\products\\sl14uehw.wcn.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiHello.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiHello.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiHello.props",
+      "PackagePath": "build\\ApiHello.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiHello.props",
+      "PackagePath": "buildMultiTargeting\\ApiHello.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiHello.props",
+      "PackagePath": "buildTransitive\\ApiHello.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

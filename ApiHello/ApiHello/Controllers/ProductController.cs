@@ -1,4 +1,5 @@
-﻿using ApiHelloBL.Services.ProductService;
+﻿using ApiHelloBL.DTOs.ProductDTO;
+using ApiHelloBL.Services.ProductService;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,7 +12,25 @@ namespace ApiHello.Controllers
         [HttpGet]
         public async Task<IActionResult>Get()
         {
-            await _service.GetAsync();
+            
+            return Ok(await _service.GetAsync());
+        }
+        [HttpPost]
+        public async Task<IActionResult> Post(ProductCreateDTO dto)
+        {
+            await _service.CreateAsync(dto);
+            return Ok();
+        }
+        [HttpPut]
+        public async Task<IActionResult> Put(ProductUpdateDTO dto, int id)
+        {
+            await _service.UpdateAsync(dto,id);
+            return Ok();
+        }
+        [HttpDelete]
+        public async Task<IActionResult> Delete(int id)
+        {
+            await _service.Delete(id);
             return Ok();
         }
     }

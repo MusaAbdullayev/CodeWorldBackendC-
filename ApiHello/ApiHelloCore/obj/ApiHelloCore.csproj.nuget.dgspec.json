@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sheki-Komp\\Desktop\\CodeWorld\\ApiHello\\ApiHelloCore\\ApiHelloCore.csproj": {}
+    "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloCore\\ApiHelloCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sheki-Komp\\Desktop\\CodeWorld\\ApiHello\\ApiHelloCore\\ApiHelloCore.csproj": {
+    "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloCore\\ApiHelloCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sheki-Komp\\Desktop\\CodeWorld\\ApiHello\\ApiHelloCore\\ApiHelloCore.csproj",
+        "projectUniqueName": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloCore\\ApiHelloCore.csproj",
         "projectName": "ApiHelloCore",
-        "projectPath": "C:\\Users\\Sheki-Komp\\Desktop\\CodeWorld\\ApiHello\\ApiHelloCore\\ApiHelloCore.csproj",
+        "projectPath": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloCore\\ApiHelloCore.csproj",
         "packagesPath": "C:\\Users\\Sheki-Komp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sheki-Komp\\Desktop\\CodeWorld\\ApiHello\\ApiHelloCore\\obj\\",
+        "outputPath": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -58,6 +58,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.17, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -96,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

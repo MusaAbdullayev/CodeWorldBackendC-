@@ -4,11 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ApiHelloCore.Entities;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiHelloDAL.Context
 {
-    public class ApiDbContext : DbContext
+    public class ApiDbContext :IdentityDbContext<User>
     {
         public ApiDbContext(DbContextOptions options) : base(options)
         {
