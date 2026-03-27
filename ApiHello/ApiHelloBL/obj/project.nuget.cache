@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pHw2rigYLng=",
+  "dgSpecHash": "PIJy3boV4IQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\ApiHelloBL.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\Sheki-Komp\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.17\\microsoft.aspnetcore.cryptography.keyderivation.8.0.17.nupkg.sha512",
     "C:\\Users\\Sheki-Komp\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.3.0\\microsoft.aspnetcore.dataprotection.2.3.0.nupkg.sha512",
     "C:\\Users\\Sheki-Komp\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\2.3.0\\microsoft.aspnetcore.dataprotection.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\Sheki-Komp\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.abstractions\\2.3.9\\microsoft.aspnetcore.diagnostics.abstractions.2.3.9.nupkg.sha512",
     "C:\\Users\\Sheki-Komp\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.3.0\\microsoft.aspnetcore.hosting.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\Sheki-Komp\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.3.0\\microsoft.aspnetcore.hosting.server.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\Sheki-Komp\\.nuget\\packages\\microsoft.aspnetcore.http\\2.3.0\\microsoft.aspnetcore.http.2.3.0.nupkg.sha512",

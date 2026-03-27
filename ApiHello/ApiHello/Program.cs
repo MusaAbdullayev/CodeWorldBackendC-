@@ -1,8 +1,10 @@
 using System;
 using ApiHelloBL;
+using ApiHelloBL.Exceptions;
 using ApiHelloCore.Entities;
 using ApiHelloDAL;
 using ApiHelloDAL.Context;
+using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
@@ -79,6 +81,36 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.UseExceptionHandler(x =>
+{
+    x.Run(async context =>
+    {
+        var feature = context.Features.Get<IExceptionHandlerFeature>();
+        Exception exc = feature!.Error;
+        context.Response.StatusCode = StatusCodes.Status500InternalServerError;
+        if (exc is IBaseException ibe)
+        {
+            context.Response.StatusCode = ibe.code;
+            await context.Response.WriteAsJsonAsync(new 
+            {
+               StatusCode = ibe.code,
+               Message = ibe.Errormessage,
+            });
+
+        }
+        else 
+        {
+            context.Response.StatusCode = StatusCodes.Status400BadRequest;
+            await context.Response.WriteAsJsonAsync(new
+            {
+                StatusCode = StatusCodes.Status400BadRequest,
+                Message = "Bir xeta bash verdi"
+            });
+        
+        }
+
+    });
+});
 
 app.UseHttpsRedirection();
 

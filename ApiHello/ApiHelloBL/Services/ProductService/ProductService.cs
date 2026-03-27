@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ApiHelloBL.DTOs.CategoryDTO;
 using ApiHelloBL.DTOs.ProductDTO;
+using ApiHelloBL.Exceptions.ProductExp;
 using ApiHelloBL.Extensions;
 using ApiHelloCore.Entities;
 using ApiHelloCore.Repositories;
@@ -49,6 +50,8 @@ namespace ApiHelloBL.Services.ProductService
         public async Task<ProductGetDTO> GetByIdAsync(int id)
         {
             var data = await _repo.GetByIdAsync(id);
+            if (data == null)
+                throw new ProductNotFoundException();
             var entity = _mapper.Map<ProductGetDTO>(data);
             return entity;
            

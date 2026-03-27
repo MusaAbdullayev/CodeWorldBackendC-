@@ -3,100 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20CC3612-0EDA-4549-BD05-4BB4949F94F1}|ApiHello\\ApiHello.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihello\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20CC3612-0EDA-4549-BD05-4BB4949F94F1}|ApiHello\\ApiHello.csproj|solutionrelative:apihello\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20CC3612-0EDA-4549-BD05-4BB4949F94F1}|ApiHello\\ApiHello.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CC3612-0EDA-4549-BD05-4BB4949F94F1}|ApiHello\\ApiHello.csproj|solutionrelative:apihello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\services\\authservice\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\services\\authservice\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\Migrations\\20260314190312_User addedd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiHelloDAL\\Migrations\\20260314190312_User addedd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\exceptions\\productexp\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\exceptions\\productexp\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5EB059D-1BEE-4489-8A5D-FEDD081E76CA}|ApiHelloCore\\ApiHelloCore.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellocore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5EB059D-1BEE-4489-8A5D-FEDD081E76CA}|ApiHelloCore\\ApiHelloCore.csproj|solutionrelative:apihellocore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20CC3612-0EDA-4549-BD05-4BB4949F94F1}|ApiHello\\ApiHello.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihello\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CC3612-0EDA-4549-BD05-4BB4949F94F1}|ApiHello\\ApiHello.csproj|solutionrelative:apihello\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F95F0D4-D57D-4204-880C-515B89FF8F2B}|ApiHelloDAL\\ApiHelloDAL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellodal\\context\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F95F0D4-D57D-4204-880C-515B89FF8F2B}|ApiHelloDAL\\ApiHelloDAL.csproj|solutionrelative:apihellodal\\context\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\exceptions\\categoryexp\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\exceptions\\categoryexp\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20CC3612-0EDA-4549-BD05-4BB4949F94F1}|ApiHello\\ApiHello.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20CC3612-0EDA-4549-BD05-4BB4949F94F1}|ApiHello\\ApiHello.csproj|solutionrelative:apihello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20CC3612-0EDA-4549-BD05-4BB4949F94F1}|ApiHello\\ApiHello.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihello\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{20CC3612-0EDA-4549-BD05-4BB4949F94F1}|ApiHello\\ApiHello.csproj|solutionrelative:apihello\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5EB059D-1BEE-4489-8A5D-FEDD081E76CA}|ApiHelloCore\\ApiHelloCore.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellocore\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5EB059D-1BEE-4489-8A5D-FEDD081E76CA}|ApiHelloCore\\ApiHelloCore.csproj|solutionrelative:apihellocore\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\services\\authservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\services\\authservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\dtos\\authdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\dtos\\authdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\dtos\\authdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\dtos\\authdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\Migrations\\20260314180914_User added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiHelloDAL\\Migrations\\20260314180914_User added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\dtos\\productdto\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\dtos\\productdto\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20CC3612-0EDA-4549-BD05-4BB4949F94F1}|ApiHello\\ApiHello.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihello\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20CC3612-0EDA-4549-BD05-4BB4949F94F1}|ApiHello\\ApiHello.csproj|solutionrelative:apihello\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F95F0D4-D57D-4204-880C-515B89FF8F2B}|ApiHelloDAL\\ApiHelloDAL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellodal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F95F0D4-D57D-4204-880C-515B89FF8F2B}|ApiHelloDAL\\ApiHelloDAL.csproj|solutionrelative:apihellodal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\dtos\\productdto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\dtos\\productdto\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\dtos\\productdto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\dtos\\productdto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\dtos\\categorydto\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\dtos\\categorydto\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5EB059D-1BEE-4489-8A5D-FEDD081E76CA}|ApiHelloCore\\ApiHelloCore.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellocore\\repositories\\isliderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5EB059D-1BEE-4489-8A5D-FEDD081E76CA}|ApiHelloCore\\ApiHelloCore.csproj|solutionrelative:apihellocore\\repositories\\isliderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F95F0D4-D57D-4204-880C-515B89FF8F2B}|ApiHelloDAL\\ApiHelloDAL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellodal\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F95F0D4-D57D-4204-880C-515B89FF8F2B}|ApiHelloDAL\\ApiHelloDAL.csproj|solutionrelative:apihellodal\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F95F0D4-D57D-4204-880C-515B89FF8F2B}|ApiHelloDAL\\ApiHelloDAL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellodal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F95F0D4-D57D-4204-880C-515B89FF8F2B}|ApiHelloDAL\\ApiHelloDAL.csproj|solutionrelative:apihellodal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F95F0D4-D57D-4204-880C-515B89FF8F2B}|ApiHelloDAL\\ApiHelloDAL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellodal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F95F0D4-D57D-4204-880C-515B89FF8F2B}|ApiHelloDAL\\ApiHelloDAL.csproj|solutionrelative:apihellodal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|c:\\users\\sheki-komp\\desktop\\cw\\apihello\\apihellobl\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A448E5-E126-4051-A6F6-1584AB3FEFE8}|ApiHelloBL\\ApiHelloBL.csproj|solutionrelative:apihellobl\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,201 +50,54 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHello\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ApiHello\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHello\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ApiHello\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T18:11:44.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20260314190312_User addedd.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\Migrations\\20260314190312_User addedd.cs",
-              "RelativeDocumentMoniker": "ApiHelloDAL\\Migrations\\20260314190312_User addedd.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\Migrations\\20260314190312_User addedd.cs",
-              "RelativeToolTip": "ApiHelloDAL\\Migrations\\20260314190312_User addedd.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Exceptions\\ProductExp\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "ApiHelloBL\\Exceptions\\ProductExp\\ProductNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Exceptions\\ProductExp\\ProductNotFoundException.cs",
+              "RelativeToolTip": "ApiHelloBL\\Exceptions\\ProductExp\\ProductNotFoundException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T19:03:12.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApiDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\Context\\ApiDbContext.cs",
-              "RelativeDocumentMoniker": "ApiHelloDAL\\Context\\ApiDbContext.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\Context\\ApiDbContext.cs",
-              "RelativeToolTip": "ApiHelloDAL\\Context\\ApiDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T19:00:08.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHello\\Program.cs",
-              "RelativeDocumentMoniker": "ApiHello\\Program.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHello\\Program.cs",
-              "RelativeToolTip": "ApiHello\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwEEAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T18:57:10.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHello\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ApiHello\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHello\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ApiHello\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T18:52:13.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHello\\appsettings.json",
-              "RelativeDocumentMoniker": "ApiHello\\appsettings.json",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHello\\appsettings.json",
-              "RelativeToolTip": "ApiHello\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-14T18:48:16.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloCore\\Enums\\UserRole.cs",
-              "RelativeDocumentMoniker": "ApiHelloCore\\Enums\\UserRole.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloCore\\Enums\\UserRole.cs",
-              "RelativeToolTip": "ApiHelloCore\\Enums\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T18:45:35.238Z",
+              "WhenOpened": "2026-03-17T18:10:43.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthServices.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Services\\AuthService\\AuthServices.cs",
-              "RelativeDocumentMoniker": "ApiHelloBL\\Services\\AuthService\\AuthServices.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Services\\AuthService\\AuthServices.cs",
-              "RelativeToolTip": "ApiHelloBL\\Services\\AuthService\\AuthServices.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwBYAAABQAAAAAAAAAA==",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Services\\ProductService\\ProductService.cs",
+              "RelativeDocumentMoniker": "ApiHelloBL\\Services\\ProductService\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Services\\ProductService\\ProductService.cs",
+              "RelativeToolTip": "ApiHelloBL\\Services\\ProductService\\ProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD8AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T18:16:51.752Z",
+              "WhenOpened": "2026-03-17T18:09:46.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Services\\AuthService\\IAuthService.cs",
-              "RelativeDocumentMoniker": "ApiHelloBL\\Services\\AuthService\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Services\\AuthService\\IAuthService.cs",
-              "RelativeToolTip": "ApiHelloBL\\Services\\AuthService\\IAuthService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHello\\Program.cs",
+              "RelativeDocumentMoniker": "ApiHello\\Program.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHello\\Program.cs",
+              "RelativeToolTip": "ApiHello\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv2wAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T18:15:29.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\DTOs\\AuthDTO\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "ApiHelloBL\\DTOs\\AuthDTO\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\DTOs\\AuthDTO\\RegisterDTO.cs",
-              "RelativeToolTip": "ApiHelloBL\\DTOs\\AuthDTO\\RegisterDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T18:10:12.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\DTOs\\AuthDTO\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "ApiHelloBL\\DTOs\\AuthDTO\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\DTOs\\AuthDTO\\LoginDTO.cs",
-              "RelativeToolTip": "ApiHelloBL\\DTOs\\AuthDTO\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T18:10:02.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20260314180914_User added.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\Migrations\\20260314180914_User added.cs",
-              "RelativeDocumentMoniker": "ApiHelloDAL\\Migrations\\20260314180914_User added.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\Migrations\\20260314180914_User added.cs",
-              "RelativeToolTip": "ApiHelloDAL\\Migrations\\20260314180914_User added.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T18:09:14.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloCore\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "ApiHelloCore\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloCore\\Entities\\User.cs",
-              "RelativeToolTip": "ApiHelloCore\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T18:07:58.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\DTOs\\ProductDTO\\ProductGetDTO.cs",
-              "RelativeDocumentMoniker": "ApiHelloBL\\DTOs\\ProductDTO\\ProductGetDTO.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\DTOs\\ProductDTO\\ProductGetDTO.cs",
-              "RelativeToolTip": "ApiHelloBL\\DTOs\\ProductDTO\\ProductGetDTO.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA7wA8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T17:23:19.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\DTOs\\ProductDTO\\ProductUpdateDTO.cs",
-              "RelativeDocumentMoniker": "ApiHelloBL\\DTOs\\ProductDTO\\ProductUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\DTOs\\ProductDTO\\ProductUpdateDTO.cs",
-              "RelativeToolTip": "ApiHelloBL\\DTOs\\ProductDTO\\ProductUpdateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T17:23:05.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProductCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\DTOs\\ProductDTO\\ProductCreateDTO.cs",
-              "RelativeDocumentMoniker": "ApiHelloBL\\DTOs\\ProductDTO\\ProductCreateDTO.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\DTOs\\ProductDTO\\ProductCreateDTO.cs",
-              "RelativeToolTip": "ApiHelloBL\\DTOs\\ProductDTO\\ProductCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T17:22:55.742Z",
+              "WhenOpened": "2026-03-17T17:45:57.3Z",
               "EditorCaption": ""
             },
             {
@@ -315,113 +108,65 @@
               "RelativeDocumentMoniker": "ApiHelloBL\\ServiceRegistration.cs",
               "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\ServiceRegistration.cs",
               "RelativeToolTip": "ApiHelloBL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T18:36:40.624Z",
+              "WhenOpened": "2026-03-17T17:30:36.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Services\\CategoryService\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ApiHelloBL\\Services\\CategoryService\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Services\\CategoryService\\CategoryService.cs",
+              "RelativeToolTip": "ApiHelloBL\\Services\\CategoryService\\CategoryService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwC4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:20:21.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Exceptions\\CategoryExp\\CategoryNotFoundException.cs",
+              "RelativeDocumentMoniker": "ApiHelloBL\\Exceptions\\CategoryExp\\CategoryNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Exceptions\\CategoryExp\\CategoryNotFoundException.cs",
+              "RelativeToolTip": "ApiHelloBL\\Exceptions\\CategoryExp\\CategoryNotFoundException.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:25:40.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHello\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ApiHello\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHello\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "ApiHello\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T18:30:50.94Z",
+              "WhenOpened": "2026-03-17T17:30:23.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CategoryCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\DTOs\\CategoryDTO\\CategoryCreateDTO.cs",
-              "RelativeDocumentMoniker": "ApiHelloBL\\DTOs\\CategoryDTO\\CategoryCreateDTO.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\DTOs\\CategoryDTO\\CategoryCreateDTO.cs",
-              "RelativeToolTip": "ApiHelloBL\\DTOs\\CategoryDTO\\CategoryCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IBaseException.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Exceptions\\IBaseException.cs",
+              "RelativeDocumentMoniker": "ApiHelloBL\\Exceptions\\IBaseException.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Exceptions\\IBaseException.cs",
+              "RelativeToolTip": "ApiHelloBL\\Exceptions\\IBaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T18:09:11.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Services\\CategoryService\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "ApiHelloBL\\Services\\CategoryService\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloBL\\Services\\CategoryService\\ICategoryService.cs",
-              "RelativeToolTip": "ApiHelloBL\\Services\\CategoryService\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T18:07:43.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "ApiHelloDAL\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\ServiceRegistration.cs",
-              "RelativeToolTip": "ApiHelloDAL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T18:46:49.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ContactRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\Repositories\\ContactRepository.cs",
-              "RelativeDocumentMoniker": "ApiHelloDAL\\Repositories\\ContactRepository.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\Repositories\\ContactRepository.cs",
-              "RelativeToolTip": "ApiHelloDAL\\Repositories\\ContactRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T18:43:18.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "ApiHelloDAL\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "ApiHelloDAL\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T18:42:28.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "ApiHelloDAL\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloDAL\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "ApiHelloDAL\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T18:41:14.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ISlideRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloCore\\Repositories\\ISlideRepository.cs",
-              "RelativeDocumentMoniker": "ApiHelloCore\\Repositories\\ISlideRepository.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\CW\\ApiHello\\ApiHelloCore\\Repositories\\ISlideRepository.cs",
-              "RelativeToolTip": "ApiHelloCore\\Repositories\\ISlideRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T18:29:02.464Z",
+              "WhenOpened": "2026-03-17T17:23:44.72Z",
               "EditorCaption": ""
             }
           ]

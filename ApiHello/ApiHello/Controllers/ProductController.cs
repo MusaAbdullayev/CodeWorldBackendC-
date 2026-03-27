@@ -15,6 +15,12 @@ namespace ApiHello.Controllers
             
             return Ok(await _service.GetAsync());
         }
+        [HttpGet("byid")]
+        public async Task<IActionResult> GetById(int id)
+        {
+            await _service.GetByIdAsync(id);
+            return Ok();
+        }
         [HttpPost]
         public async Task<IActionResult> Post(ProductCreateDTO dto)
         {

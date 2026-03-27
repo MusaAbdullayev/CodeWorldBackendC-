@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ApiHelloBL.DTOs.CategoryDTO;
+using ApiHelloBL.Exceptions.CategoryExp;
 using ApiHelloCore.Entities;
 using ApiHelloCore.Repositories;
 using AutoMapper;
@@ -42,6 +43,8 @@ namespace ApiHelloBL.Services.CategoryService
         public async Task UpdateAsync(CategoryUpdateDTO dto, int id)
         {
             var data = await _repo.GetByIdAsync(id);
+            if(data == null)
+                throw new CategoryNotFoundException();       
             data.Name = dto.Name;
             await _repo.SaveAsync();
         }

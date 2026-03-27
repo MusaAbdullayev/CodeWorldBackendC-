@@ -298,12 +298,6 @@ C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\scopedcss\bund
 C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\staticwebassets\msbuild.ApiHello.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\staticwebassets\msbuild.ApiHello.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiHello.props
-C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiHello.props
-C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiHello.props
-C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\ApiHello.csproj.Up2Date
 C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\ApiHello.dll
@@ -323,3 +317,8 @@ C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\bin\Debug\net8.0\Microsoft.Exte
 C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Sheki-Komp\Desktop\CW\ApiHello\ApiHello\obj\Debug\net8.0\staticwebassets.build.json.cache
